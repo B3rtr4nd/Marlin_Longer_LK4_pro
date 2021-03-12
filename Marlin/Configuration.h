@@ -1001,7 +1001,7 @@
  *     O-- FRONT --+
  */
 
-#define NOZZLE_TO_PROBE_OFFSET { -33, -5, 0 }  // Value for Alphawise and Longer U30 pro LK4 pro  with BLtouch support => https://www.thingiverse.com/thing:4261004
+#define NOZZLE_TO_PROBE_OFFSET { -25, -30, 0 }  // Value for Alphawise and Longer U30 pro LK4 pro  with BLtouch support => https://www.thingiverse.com/thing:3603067
 
 // Most probes should stay away from the edges of the bed, but
 // with NOZZLE_AS_PROBE this can be negative for a wider probing area.
